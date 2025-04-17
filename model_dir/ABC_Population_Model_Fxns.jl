@@ -1,4 +1,14 @@
 
+# Copyright 2025 Cancer Research Technology and The Institute of Cancer Research.
+#
+# Licensed under a software academic use license provided with this software package (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at: https://github.com/freddie090/Barcode_ABC
+# Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and limitations under the License.
+
+################################################################################
+
 # Analagous functions as those used in the ABC module 'ABC_Res_Pop_Model'.
 # Combines a deterministic ODE with stochastic jump process to model the 
 # evolution of 2/3 (depending on model A,B,C) phenotypic compartments through
