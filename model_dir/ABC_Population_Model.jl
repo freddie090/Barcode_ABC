@@ -915,8 +915,8 @@ function model(pars)
 
     # Choose which model to run based on the parameters provided: 
 
-    # Escape
-    ########
+    # C - Escape Transitions
+    ########################
 
     if "al" in keys(pars)
 
@@ -947,8 +947,8 @@ function model(pars)
                                       Nmax, Cc,
                                       treat_ons, treat_offs, t_keep, Nswitch)
 
-    # Switching
-    ###########
+    # B - Bidirectional Transitions
+    ###############################
 
     elseif "sig" in keys(pars)
 
@@ -976,8 +976,8 @@ function model(pars)
                                       treat_ons, treat_offs, t_keep, Nswitch)
 
 
-    # Pre-ex
-    ########
+    # A - Unidirectional Transitions
+    ################################
 
     else
 
