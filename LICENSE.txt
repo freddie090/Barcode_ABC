@@ -21,7 +21,7 @@ We license use of the Software to you on the basis of this Licence. We do not se
 Subject to any conflicting agreement between us and any third party, we remain the owners of the 
 Software and all intellectual property rights in it at all times. 
 By downloading, accessing, installing, copying or using this Software, you agree to be bound by the 
-terms of this Licence (included in the "non-commercial-academic-license.exe" file, available in the main 
+terms of this Licence (included in the "LICENSE.txt" file, available in the main 
 directory of the Software repository).
 
 1.	LICENCE
